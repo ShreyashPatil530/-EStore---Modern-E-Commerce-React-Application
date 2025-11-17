@@ -10,7 +10,7 @@
 
 **A fully functional, modern e-commerce platform with an animated hero section, product filtering, shopping cart, and responsive design.**
 
-[Demo](#demo) • [Features](#features) • [Installation](#installation) • [Tech Stack](#tech-stack) • [Screenshots](#screenshots)
+[Demo](https://shreyash-patil-project-estore.netlify.app/) • [Features](#features) • [Installation](#installation) • [Tech Stack](#tech-stack) • [Screenshots](#screenshots)
 
 </div>
 
